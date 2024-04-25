@@ -11,6 +11,10 @@ NoCTune is an advanced simulation framework developed to optimize Network-on-Chi
 
 The primary goal of NoCTune is to design a NoC that is area and power efficient while achieving optimal performance in terms of latency and bandwidth. The simulation considers various traffic patterns and workload scenarios on a SoC that includes CPU and IO peripherals accessing system memory through a weighted arbiter.
 
+1. (Write pseudocode to measure average latency and bandwidth using the simulator provided monitor output (as shown in Table 1.0). The pseudocode needs to be efficient and robust.)[https://github.com/bruhathisp/NoCSimulation/goals/Goal1/README.md]
+2. (Using Reinforced Learning to arrive at the optimal parameters listed above. Put together a design document. Describe the RL framework consisting of states/behaviors, actions and rewards. You need to also advise which RL algorithm (ex: DQN, SARSA, Actor-Critic, etc.) is best suited for this problem statement. You need not develop or write the  RL algorithm. ) [https://github.com/bruhathisp/NoCSimulation/goals/Goal2/README.md]
+
+
 ## Features
 
 - **Custom NoC Simulation Environment**: Simulates complex interactions within a SoC, including data flows between CPU, IO peripherals, and system memory.

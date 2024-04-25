@@ -52,6 +52,10 @@ void TrafficAnalyzer::reportStatistics() {
     // Output the calculated statistics
     EV << "Average Latency: " << averageLatency << "s, Bandwidth: " << bandwidth << " bytes/s" << endl;
 }
-```
+
+
+## Dataset and Simulation Environment
+
+Experimental Data from the Simulation of On-Chip Communication Architectures using RedScarf Simulation Environment October 2019Data in Brief 27(1):104725 DOI:10.1016/j.dib.2019.104725
 
 In a real-world implementation, you would need to handle corner cases and ensure synchronization between the data collection and reporting mechanisms. The above is simplified to illustrate the concept.

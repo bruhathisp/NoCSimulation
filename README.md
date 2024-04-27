@@ -14,6 +14,7 @@ The primary goal of NoCTune is to design a NoC that is area and power efficient 
 1. (Write pseudocode to measure average latency and bandwidth using the simulator provided monitor output (as shown in Table 1.0). The pseudocode needs to be efficient and robust.)[https://github.com/bruhathisp/NoCSimulation/goals/Goal1/README.md]
 2. (Using Reinforced Learning to arrive at the optimal parameters listed above. Put together a design document. Describe the RL framework consisting of states/behaviors, actions and rewards. You need to also advise which RL algorithm (ex: DQN, SARSA, Actor-Critic, etc.) is best suited for this problem statement. You need not develop or write the  RL algorithm. ) [https://github.com/bruhathisp/NoCSimulation/goals/Goal2/README.md]
 
+## [Demo Video](https://www.youtube.com/watch?v=8IhDGbxIHnk)
 
 ## Features
 
